@@ -1,9 +1,9 @@
 # 🐞 Bug Report Summary
 
 ## 🧾 Student Details  
-**Name**: [Your Full Name]  
-**Cohort**: [e.g., August 2024]  
-**Date**: [Today’s Date]
+**Name**: Joseph Thiong'o
+**Cohort**: July 2025  
+**Date**: 25/9/2025
 
 ---
 
@@ -18,8 +18,8 @@ List 3 things you expect the Weather Checker app to do correctly.
 ## 🐛 Reported Bugs  
 
 ### 🐞 BUG-001  
-**Title**: [Copy-paste your GitHub Issue Title]  
-**GitHub Link**: [Paste Issue Link Here]  
+**Title**: Software not responsive
+**GitHub Link**:(https://github.com/PLP-Database-DEPT/swt-hands-on/issues/5#issue-3453514825)  
 **Requirement Affected**: [e.g., Input Validation]  
 **Severity**: [High / Medium / Low]  
 **Summary**:  
@@ -41,6 +41,9 @@ List 3 things you expect the Weather Checker app to do correctly.
 
 Answer briefly (1–2 paragraphs):
 
-- What was your testing approach?  
-- What did you find easy or difficult during the task?  
+- What was your testing approach?
+- I used dynamic testing  
+- What did you find easy or difficult during the task?
+- Difficult to key in the city  
 - How confident are you now in identifying and reporting bugs?
+- fair on the data seen
